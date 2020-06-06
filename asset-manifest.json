@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/VendingMachine/static/css/main.fa85d73c.chunk.css",
-    "main.js": "/VendingMachine/static/js/main.0637d440.chunk.js",
-    "main.js.map": "/VendingMachine/static/js/main.0637d440.chunk.js.map",
+    "main.js": "/VendingMachine/static/js/main.1eb4c484.chunk.js",
+    "main.js.map": "/VendingMachine/static/js/main.1eb4c484.chunk.js.map",
     "runtime-main.js": "/VendingMachine/static/js/runtime-main.cd5879bc.js",
     "runtime-main.js.map": "/VendingMachine/static/js/runtime-main.cd5879bc.js.map",
-    "static/js/2.8eab3a36.chunk.js": "/VendingMachine/static/js/2.8eab3a36.chunk.js",
-    "static/js/2.8eab3a36.chunk.js.map": "/VendingMachine/static/js/2.8eab3a36.chunk.js.map",
+    "static/js/2.03599a28.chunk.js": "/VendingMachine/static/js/2.03599a28.chunk.js",
+    "static/js/2.03599a28.chunk.js.map": "/VendingMachine/static/js/2.03599a28.chunk.js.map",
     "index.html": "/VendingMachine/index.html",
-    "precache-manifest.2527aa082699a55f7c12ed3cb01934e3.js": "/VendingMachine/precache-manifest.2527aa082699a55f7c12ed3cb01934e3.js",
+    "precache-manifest.cc3038e4dc7bac7566d876d94e0933b1.js": "/VendingMachine/precache-manifest.cc3038e4dc7bac7566d876d94e0933b1.js",
     "service-worker.js": "/VendingMachine/service-worker.js",
     "static/css/main.fa85d73c.chunk.css.map": "/VendingMachine/static/css/main.fa85d73c.chunk.css.map",
-    "static/js/2.8eab3a36.chunk.js.LICENSE.txt": "/VendingMachine/static/js/2.8eab3a36.chunk.js.LICENSE.txt"
+    "static/js/2.03599a28.chunk.js.LICENSE.txt": "/VendingMachine/static/js/2.03599a28.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cd5879bc.js",
-    "static/js/2.8eab3a36.chunk.js",
+    "static/js/2.03599a28.chunk.js",
     "static/css/main.fa85d73c.chunk.css",
-    "static/js/main.0637d440.chunk.js"
+    "static/js/main.1eb4c484.chunk.js"
   ]
 }
