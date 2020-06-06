@@ -1,0 +1,42 @@
+.Vending-Machine {
+    width: 100%;
+}
+.Image-VendingMachine {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+.little-menu {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    top: 60%;
+    left: 0;
+    right: 0;
+    border-radius: 10px;
+
+} 
+
+.Mini-Menu {
+    display: flex;
+    padding: 0.5rem 3rem;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.sideRight {
+    background: rgba(0, 0, 0, 0.5);
+    margin-right: 5rem;
+    border-radius: 5px;
+}
+.sideLeft {
+    color: white;
+    margin-left: 2rem;
+    width: 30%;
+    background: rgba(0, 0, 0, 0.5);
+    padding-top: 1rem;
+    border-radius: 5px
+}
